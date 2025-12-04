@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "무릎",
+  "base_artist": "아이유(IU)",
+  "createdAt": "2025-12-04T13:39:33.333341Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "무릎",
+      "artist": "IU",
+      "has_synced": true,
+      "path": "select/01_무릎_IU.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "무릎",
+      "artist": "IU",
+      "has_synced": false,
+      "path": "select/pl_01_무릎_IU.txt"
+    }
+  ]
+}
